@@ -26,8 +26,7 @@ Designed for responsive performance and a smooth user experience across all devi
 ## 🧩 Technologies Used
 
 - **HTML5** – structure and semantic layout  
-- **CSS3** – gradient backgrounds, glassmorphism, responsiveness  
-- **JavaScript (optional)** – for future form validation or animations  
+- **CSS3** – gradient backgrounds, glassmorphism, responsiveness    
 
 ---
 
