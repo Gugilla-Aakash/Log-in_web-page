@@ -29,6 +29,3 @@ Designed for responsive performance and a smooth user experience across all devi
 - **CSS3** – gradient backgrounds, glassmorphism, responsiveness    
 
 ---
-
-## 📁 Folder Structure
-
